@@ -3,9 +3,7 @@ Hey there!
 I am a novice coder and also new to Github.
 
 #include <iostream>
-
 using namespace std;
-
 int main() {
     int n, firstTerm = 1, secondTerm = 1, nextTerm;
     cout << "Enter number of terms: ";
